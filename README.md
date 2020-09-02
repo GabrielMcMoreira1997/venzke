@@ -30,3 +30,14 @@
 
 Tenha sempre como meta muita **força**, muita **determinação** e sempre faça tudo com muito **amor** e com muita fé em **deus**, que um dia você chega lá. De alguma forma você chega lá. - *Ayrton Senna*
 <br>
+
+<img src="https://github.com/Venzke/venzke/blob/master/lol.gif" alt="League of Legends" width="900">
+
+# Contato: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/gabriel-mcm/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/venzk3) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/gmor3ira/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Venzke) | [<img 
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:gabrielc.moreira97@gmail.com)
+
+
