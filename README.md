@@ -6,16 +6,9 @@
     
     
    Focado em <b>desenvolver aplicações em .NET</b> <img src="https://github.com/Venzke/venzke/blob/master/note_sonic.gif" width="50px">.
-   Sou <b>Gáucho</b> e pretendo morar na Romênia!
   </em>  
 </p>
 
-<br>
-
-- 💻 *Atualmente* **estudando** C#; 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Futuro** desenvolvedor de games 💪;
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Procurando **conexões** no mundo ***dev***;
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Desenvolvendo no visual studio;
 
 <br>
 
