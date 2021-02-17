@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    Me chamo Gabriel Moreira, sou estudante de análise e desenvolvimento de sistemas pela Uninter! <img src="https://github.com/Venzke/venzke/blob/master/heart_sonic.gif" width="60px">.  
+    Me chamo Gabriel Moreira, sou estudante de análise e desenvolvimento de sistemas pela Uninter!(e agora de big data e inteligência analítica pela PUCPR) <img src="https://github.com/Venzke/venzke/blob/master/heart_sonic.gif" width="60px">.  
     
     
    Focado em <b>desenvolver aplicações em .NET</b> <img src="https://github.com/Venzke/venzke/blob/master/note_sonic.gif" width="50px">.
